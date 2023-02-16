@@ -1,0 +1,7 @@
+C:\Users\carlo\OneDrive\Documentos\01 - UNPHU DOCUMENTS\CUATRIMESTRE 08 - ENEROABRIL2023\INF159 - LENGUAJE C - PROFE VILLALONA\Fracciones mixtas a comunes\bin\Debug\Fracciones mixtas a comunes.exe.config
+C:\Users\carlo\OneDrive\Documentos\01 - UNPHU DOCUMENTS\CUATRIMESTRE 08 - ENEROABRIL2023\INF159 - LENGUAJE C - PROFE VILLALONA\Fracciones mixtas a comunes\bin\Debug\Fracciones mixtas a comunes.exe
+C:\Users\carlo\OneDrive\Documentos\01 - UNPHU DOCUMENTS\CUATRIMESTRE 08 - ENEROABRIL2023\INF159 - LENGUAJE C - PROFE VILLALONA\Fracciones mixtas a comunes\bin\Debug\Fracciones mixtas a comunes.pdb
+C:\Users\carlo\OneDrive\Documentos\01 - UNPHU DOCUMENTS\CUATRIMESTRE 08 - ENEROABRIL2023\INF159 - LENGUAJE C - PROFE VILLALONA\Fracciones mixtas a comunes\obj\Debug\Fracciones mixtas a comunes.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\01 - UNPHU DOCUMENTS\CUATRIMESTRE 08 - ENEROABRIL2023\INF159 - LENGUAJE C - PROFE VILLALONA\Fracciones mixtas a comunes\obj\Debug\Fracciones mixtas a comunes.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\01 - UNPHU DOCUMENTS\CUATRIMESTRE 08 - ENEROABRIL2023\INF159 - LENGUAJE C - PROFE VILLALONA\Fracciones mixtas a comunes\obj\Debug\Fracciones mixtas a comunes.exe
+C:\Users\carlo\OneDrive\Documentos\01 - UNPHU DOCUMENTS\CUATRIMESTRE 08 - ENEROABRIL2023\INF159 - LENGUAJE C - PROFE VILLALONA\Fracciones mixtas a comunes\obj\Debug\Fracciones mixtas a comunes.pdb
